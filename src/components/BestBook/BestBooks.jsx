@@ -41,7 +41,8 @@ const BestBooks = ({ handleOrderPopup }) => {
             </p>
             <h1 className="text-3xl font-bold">Best Books</h1>
             <p className="text-xs text-gray-400">
-            Mind-bending, page-turning, soul-stirring, brain-tickling, imagination-igniting, knowledge-infused, thought-provoking.
+              Mind-bending, page-turning, soul-stirring, brain-tickling,
+              imagination-igniting, knowledge-infused, thought-provoking.
             </p>
           </div>
 

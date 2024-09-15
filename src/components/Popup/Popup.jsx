@@ -32,7 +32,7 @@ const Popup = ({ orderPopup, handleOrderPopup }) => {
                        dark:bg-gray-800 px-2 py-1 mb-4"
               />
               <input
-                type="email"
+                type="email"gi
                 placeholder="Email"
                 className="w-full rounded-full border 
                        border-gray-300
